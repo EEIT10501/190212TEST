@@ -21,7 +21,9 @@ function clearForm() {
 </head>
 <body>
 
-<h3>Welcome,James </h3>
+
+
+<h3>Welcome, </h3>
 
 <h3>Product Table</h3>
 
