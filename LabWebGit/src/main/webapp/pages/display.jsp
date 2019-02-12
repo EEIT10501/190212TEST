@@ -8,7 +8,7 @@
 <title>Display</title>
 </head>
 <body>
-
+<h3>Welcome,James </h3>
 <h3>Select Product Table Result : XXX row(s) selected</h3>
 <table>
 	<thead>
